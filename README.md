@@ -1,2 +1,10 @@
 # Portal-do-aluno-app
-App desenvolvido em Dart - Flutter, simulando um portal de aluno e suas funções.
+App simulando um portal de aluno e suas funções.
+
+
+## Desenvolvido em:
+* Flutter
+
+
+### Criado por Luiz Eduardo Lopes Cândido.
+[Link do git](https://github.com/luiz-eduardo-dev)
