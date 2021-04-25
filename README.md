@@ -5,7 +5,7 @@ App que simula um portal de aluno e suas funções. / App that simulates a stude
 * Dart - Flutter
 
 ### Idioma / Language:
-*Português / Portuguese
+* Português / Portuguese
 
 #### Criado por Luiz Eduardo Lopes Cândido. / Created by Luiz Eduardo Lopes Cândido.
 [Link](https://github.com/luiz-eduardo-dev)
