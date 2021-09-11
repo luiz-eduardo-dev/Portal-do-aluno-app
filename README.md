@@ -2,7 +2,7 @@
 App que simula um portal de aluno e suas funções. / App that simulates a student portal and its functions.
 
 ## Desenvolvido em / Developed in:
-* Dart - Flutter
+* Android Studio - Kotlin
 
 ### Idioma / Language:
 * Português / Portuguese
